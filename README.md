@@ -8,7 +8,7 @@ A Python-based REST API for managing tasks, built to practice serverless-style b
 - **Get All Tasks:** https://abubakar.pythonanywhere.com/tasks
 - **GitHub Repository:** https://github.com/M-Abubakar24/serverless-task-api
 
-## 📌 Features
+## 📌 Features 
 
 - Create new tasks
 - Retrieve all tasks
