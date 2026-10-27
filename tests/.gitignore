@@ -1,0 +1,17 @@
+
+# Python virtual environment
+.venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Local SQLite database
+tasks.db
+
+# Environment variables and secrets
+.env
+.env.*
+
+# VS Code workspace settings
+.vscode/
